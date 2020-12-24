@@ -17,4 +17,3 @@ export const ToDos = ({ toDos }) => {
     </div>
   )
 }
-
