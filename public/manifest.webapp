@@ -1,0 +1,26 @@
+{
+  "name": "My first React App for KaiOS",
+  "description": "Simple example of a to-do list",
+  "lang": "en-US",
+  "start_url": "/index.html",
+  "icons": [
+    {
+      "src": "/assets/icons/kaios_56.png",
+      "type": "image/png",
+      "sizes": "56x56"
+    },
+    {
+      "src": "/assets/icons/kaios_112.png",
+      "type": "image/png",
+      "sizes": "112x112"
+    }
+  ],
+  "b2g_features": {
+    "version": "1.0.0",
+    "type": "web",
+    "developer": {
+      "name": "KaiOS Team",
+      "url": "https://www.kaiostech.com"
+    }
+  }
+}
